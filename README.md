@@ -1,2 +1,2 @@
 # CustomerProfile
-For Customer profile project
+For Customer profile SPFX project
